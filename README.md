@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Matteo Fredi
 - 👀 I’m interested in software development & all that with at least two wheels and an engine 
-- 🌱 I’m currently learning ~~Golang~~ Flutter
 - 📫 How to reach me @matteofredi.developer@gmail.com || [Linkedin](https://www.linkedin.com/in/matteo-fredi)
 - ⚡ Fun fact: In production I caused less than two problems but more than one 😇
